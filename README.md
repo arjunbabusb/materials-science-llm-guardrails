@@ -85,14 +85,13 @@ what a given deployment can actually do.
 
 ## Usage
 
-See [`prompt/system_prompt.md`](prompt/system_prompt.md) for the full prompt.
+See [`system_prompt.md`](system_prompt.md) for the full prompt.
 Drop it in as a system prompt for any LLM meeting the minimum requirements
 (long context window, structured output, instruction-following). See
-[`examples/sample_query_output.md`](examples/sample_query_output.md) for a
-worked example.
+[`sample_query_output.md`](sample_query_output.md) for a worked example.
 
 ## Background
 
-Developed and iterated on while working on materials-science / synthetic
-biology coursework and internship work, as a way to make LLM-assisted
-literature and property review auditable rather than trust-by-default.
+Developed and iterated on as part of materials-science coursework and
+research-assistant work, as a way to make LLM-assisted literature and
+property review auditable rather than trust-by-default.
